@@ -1,4 +1,4 @@
-function Profile() {
+function Projects() {
   return (
     <div>
       <h1>My Profile</h1>
@@ -15,4 +15,4 @@ function Profile() {
   );
 }
 
-export default Profile;
+export default Projects
